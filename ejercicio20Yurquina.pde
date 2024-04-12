@@ -1,4 +1,5 @@
 PVector coordenadas;
+//declaro las variables
 int altoRec,anchoRec,distRec;
 
 public void setup()
